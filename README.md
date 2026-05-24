@@ -32,6 +32,10 @@ Currently picking up: **FastAPI**, **Python**, and deeper **React**.
 
 ## ✨ Featured projects
 
+### Heap *(private)*
+Full-stack digital wallet for managing cards, balances, users, and transactions. JWT auth with refresh tokens, role-based access, admin area, and full Alembic-managed schema with backend tests.
+`React 19` `Vite` `Redux Toolkit` `Tailwind` `shadcn/ui` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic`
+
 ### [Plaza](https://github.com/hamzatuco/plaza) · [live →](https://plaza-games.vercel.app)
 Mobile-first party-games hub for the crew. Shared room shell with isolated game modules — server-authoritative state, real-time multiplayer, anonymous auth.
 `Next.js` `TypeScript` `Supabase` `Drizzle` `Tailwind`
